@@ -1,0 +1,61 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Photoshop CS5.app", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								}
+			},
+
+			//separator
+			{"caption":"-"},
+
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Google Chrome",
+									"extensions":".*" //any file with extension
+								}
+			},
+			
+			{
+				"caption": "Safari",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Safari",
+									"extensions":".*" //any file with extension
+								}
+			},
+			
+			{
+				"caption": "Firefox",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Firefox",
+									"extensions":".*" //any file with extension
+								}
+			},
+
+			{"caption":"-"}
+		]
+	}
+]

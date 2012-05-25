@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<% for ${1:item} in ${2:items} %>
+	${3:<%= ${4:$1.name} %>}
+<% end %>]]></content>
+    <tabTrigger>forin</tabTrigger>
+    <scope>source.ruby.rails</scope>
+    <description>for loop</description>
+</snippet>

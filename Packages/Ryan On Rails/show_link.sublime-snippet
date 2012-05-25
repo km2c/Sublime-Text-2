@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%= link_to $1.name, $1 %>]]></content>
+    <tabTrigger>slink</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>show link</description>
+</snippet>

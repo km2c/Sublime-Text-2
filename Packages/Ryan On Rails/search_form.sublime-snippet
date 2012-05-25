@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<% form_tag ${1:items}_path, :method => 'get' do %>
+	<p>
+		<%= text_field_tag :${2:search}, params[:$2] %>
+		<%= submit_tag "Search", :name => nil %>
+	</p>
+<% end %>]]></content>
+    <tabTrigger>search</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>search form</description>
+</snippet>

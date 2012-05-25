@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%= link_to "Edit", edit_${1:item}_path($1) %>]]></content>
+    <tabTrigger>elink</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>edit link</description>
+</snippet>

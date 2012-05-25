@@ -1,0 +1,25 @@
+{
+	"files":
+	{
+		"Backbone.js": "http://documentcloud.github.com/backbone/backbone-min.js",
+		"Bootstrap Alerts": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-alerts.js",
+		"Bootstrap Buttons": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-buttons.js",
+		"Bootstrap Dropdown": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-dropdown.js",
+		"Bootstrap Modal": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-modal.js",
+		"Bootstrap Popovers": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-popover.js",
+		"Bootstrap Scroll Spy": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js",
+		"Bootstrap Tabs": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-tabs.js",
+		"Bootstrap Tips": "http://twitter.github.com/bootstrap/1.4.0/bootstrap-twipsy.js",
+		"PrefixFree.js": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
+		"Underscore.js": "http://documentcloud.github.com/underscore/underscore-min.js",
+		"jQuery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"Codeigniter": "http://codeigniter.com/download.php",
+		"Twitter Bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
+		"html Email Boilerplate": "https://github.com/seanpowell/Email-Boilerplate/zipball/master",
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v3.0.2stripped",
+		"html5-mobile-boilerplate": "https://github.com/h5bp/mobile-boilerplate/zipball/v3.0stripped"
+	}
+}

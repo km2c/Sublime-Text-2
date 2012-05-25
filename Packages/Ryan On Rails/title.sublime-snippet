@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<% title $1 %>]]></content>
+    <tabTrigger>t</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>title</description>
+</snippet>

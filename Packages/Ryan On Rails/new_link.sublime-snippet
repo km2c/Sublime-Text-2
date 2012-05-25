@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%= link_to "New $1", new_$2_path %>]]></content>
+    <tabTrigger>nlink</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>new link</description>
+</snippet>

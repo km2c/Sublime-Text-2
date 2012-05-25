@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%=h $1 %>]]></content>
+    <tabTrigger>h</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>html sanitized</description>
+</snippet>

@@ -1,0 +1,2791 @@
+{
+	"folder_history":
+	[
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2",
+		"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2",
+		"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html",
+		"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html",
+		"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro",
+		"/Users/kirk.mccutcheon/Desktop/EMSAM_EPATCH_Static_HTML",
+		"/Users/kirk.mccutcheon/Desktop/EMSAM_EPATCH_Static_HTML/digital.gsw-w.com/Mylan/DYEMS_53257_EMSAM_Epatch_website/05.16.2012",
+		"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/sinatra",
+		"/Users/kirk.mccutcheon/Sites/pavaze_20188",
+		"/Users/kirk.mccutcheon/Sites/19288_pgitvd",
+		"/Users/kirk.mccutcheon/Sites/ATRM",
+		"/Users/kirk.mccutcheon/Sites/spine/spine.contacts",
+		"/Users/kirk.mccutcheon/Sites/spine/contacts",
+		"/Users/kirk.mccutcheon/Sites/spine/node_modules/spine.app",
+		"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/modx/assets/templates",
+		"/Users/kirk.mccutcheon/Downloads/initializr-verekia-3.0",
+		"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/CPStew_TomorrowsK",
+		"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme",
+		"/Users/kirk.mccutcheon/Sites/bones",
+		"/Volumes/digital.inserv/inVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/_Multiple_Brands/GSK_emails/2012-05-04",
+		"/Volumes/digital.inserv/inVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/_Multiple_Brands/GSK_emails/53492-4_gskmbx_unbranded_eblast_lo13/05.04.2012",
+		"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK",
+		"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/bones",
+		"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User",
+		"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com",
+		"/Users/kirk.mccutcheon/.oh-my-zsh",
+		"/Volumes/digital.inserv/inVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/_Multiple_Brands/GSK_emails/53492-4_gskmbx_unbranded_eblast_lo13",
+		"/Users/kirk.mccutcheon/Documents/inServ Sites/mystro_email",
+		"/Volumes/digital.gsw-w.com/Mylan/DYEMS_53257_EMSAM_Epatch_website/04.30.2012",
+		"/Volumes/digital.inserv/inVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/_Multiple_Brands/GSK_emails/53492-4_gskmbx_unbranded_eblast_lo13/04.30.2012",
+		"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website",
+		"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website",
+		"/Users/kirk.mccutcheon/Assembla/VOINCL-3619_Harvest_App/trunk/harvest_app",
+		"/Users/kirk.mccutcheon/Sites/php-mail",
+		"/Users/kirk.mccutcheon/Sites/VOPRMT_3801",
+		"/Users/kirk.mccutcheon/Documents/inServ Sites/gsk Email/54158-1_gskmbx_eblast_lo4",
+		"/Users/kirk.mccutcheon/Desktop/worldHost",
+		"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/Epatch-Pro2",
+		"/Users/kirk.mccutcheon/Downloads/johndyer-mediaelement-fc306b4/demo",
+		"/Users/kirk.mccutcheon/Sites/vidtest",
+		"/Users/kirk.mccutcheon/Sites/contactsC",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/contacts",
+		"/Users/kirk.mccutcheon/Desktop/199-mobile-devices/todo",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/projects",
+		"/Users/kirk.mccutcheon/Downloads/054-debugging-ruby-revised/todo-after",
+		"/Users/kirk.mccutcheon/Sites/zend/zf-test",
+		"/Users/kirk.mccutcheon/Desktop/Files/trojan-check-2.app",
+		"/Users/kirk.mccutcheon/Desktop/Files/trojan-check.app",
+		"/Users/kirk.mccutcheon/Sites/320-jbuilder/blog-after",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/contact",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2",
+		"/Users/kirk.mccutcheon/Sites/inservContacts",
+		"/Users/kirk.mccutcheon/Desktop/inservContacts",
+		"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/tasks",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/portfolio",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/337-capistrano-recipes/blog-after",
+		"/Users/kirk.mccutcheon/Documents/Personal/web/jquery/exconsumer",
+		"/Users/kirk.mccutcheon/Sites/pharmanet_demo",
+		"/Users/kirk.mccutcheon/Sites/rails_3.2/337-capistrano-recipes",
+		"/Users/kirk.mccutcheon/Sites/pharmanet_demo/app",
+		"/Users/kirk.mccutcheon/Sites/pharmanet_demo/app/js/libs",
+		"/Users/kirk.mccutcheon/Downloads/337-capistrano-recipes/blog-after",
+		"/Volumes/INVENTIV_INTERACTIVE/Project_Work/InVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/MenHibrix/GSKMBX_53924_Brand_Email/01_Working Files/_Build/03_28_12",
+		"/Volumes/INVENTIV_INTERACTIVE/Project_Work/InVentiv_Health/Commercial/inVentiv_Health_Communications/GSK/MenHibrix/GSKMBX_53917_Email/01_Working Files/_Build/03_28_12"
+	],
+	"last_window_id": 820,
+	"settings":
+	{
+		"new_window_height": 939.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block	(b)"
+					],
+					[
+						"heigth",
+						"height"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"first",
+						":first-child"
+					],
+					[
+						"time",
+						"timeline"
+					],
+					[
+						"bord",
+						"border	border-bottom: size style color"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"input",
+						"input	input - text"
+					],
+					[
+						"stop",
+						"stopVid1"
+					],
+					[
+						"st",
+						"stopVid"
+					],
+					[
+						"label",
+						"label	<label>"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"lis",
+						"list	list-style-type: numeric"
+					],
+					[
+						"V",
+						"Verdana, Geneva, Arial, Helvetica, sans-serif"
+					],
+					[
+						"form",
+						"form	<form>"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"back",
+						"background	background-image: url"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"lorem",
+						"lorem	lorem - HTML Kitchen sink"
+					],
+					[
+						"ar",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"A",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"gem",
+						"gemt	gem test"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"dis",
+						"display	display: block"
+					],
+					[
+						"do",
+						"do"
+					],
+					[
+						"vi",
+						"<div id=\"vi\">${1001:$SELECTION}</div>"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"sf",
+						"sfun	Self invoking function"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"G",
+						"\"Gill Sans MT\""
+					],
+					[
+						"large",
+						"largeBanner"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"sfun",
+						"sfun	jQuery invoking function"
+					],
+					[
+						"er",
+						"erb"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"10px",
+						"10px"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"show",
+						"showcaseNav"
+					],
+					[
+						"column",
+						"column-3"
+					],
+					[
+						"list",
+						"list	list-style-type: marker"
+					],
+					[
+						"ff",
+						"ff0033"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"sele",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"th",
+						"this	A basic jQuery selector"
+					],
+					[
+						"sel",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"j",
+						"jfun	jQuery invoking function"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"se",
+						"section"
+					],
+					[
+						"cl",
+						"clip"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"n",
+						"none	(n)"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"h2",
+						"h2"
+					],
+					[
+						"h3",
+						"h3"
+					],
+					[
+						"nav",
+						"nav	<nav>"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"a",
+						"a	<a>"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"nth-child",
+						":nth-child(|)"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"bu",
+						"bubbleActiveleft"
+					],
+					[
+						"banner",
+						"bannerBg"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"bubble",
+						"bubbleActiveRight"
+					],
+					[
+						"T",
+						"\"Trebuchet MS\""
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"vis",
+						"visible"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"exhibiteft",
+						"exhibitLeft"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"backgrou",
+						"background	background-color: hex"
+					],
+					[
+						"script",
+						"script"
+					],
+					[
+						"meta",
+						"meta"
+					],
+					[
+						"img",
+						"img: img"
+					],
+					[
+						"return",
+						"return  (keyword)"
+					],
+					[
+						"class",
+						"@class"
+					],
+					[
+						"hcp",
+						"hcp  (variable)"
+					],
+					[
+						"var",
+						"var: <var>"
+					],
+					[
+						"src",
+						"src=  (attribute)"
+					],
+					[
+						"z",
+						"z: z-index: index"
+					],
+					[
+						"li",
+						"li  (element)"
+					],
+					[
+						"ul",
+						"u  (element)"
+					],
+					[
+						"div",
+						"div>  (element)"
+					],
+					[
+						"id",
+						"id=  (attribute)"
+					],
+					[
+						"madding",
+						"-moz-padding-start:   (property)"
+					],
+					[
+						"title",
+						"title=  (attribute)"
+					],
+					[
+						"alt",
+						"alt=  (attribute)"
+					],
+					[
+						"padding",
+						"padding: padding: T R B L"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"block",
+						"blockquote: <blockquote>"
+					],
+					[
+						"height",
+						"min-height:   (property)"
+					],
+					[
+						"Title",
+						"title=  (attribute)"
+					],
+					[
+						"html",
+						"html: html"
+					]
+				]
+			},
+			"build_system": "Packages/User/Browser.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"fe",
+						"Fetch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: gem",
+						"Snippet: gem test"
+					],
+					[
+						"fet",
+						"Fetch"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Preferences: Browse Packages"
+					],
+					[
+						"fetch",
+						"Fetch: Manage remote files"
+					],
+					[
+						"prefix",
+						"Preferences: Prefixr Key Bindings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 115.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": true,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/assets/js/scriptHome.js",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/about.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/indications.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/bottomNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-environment.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/tachycardia.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/atrial-fibrillation.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosage.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/prescribing-information.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/faqs.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/resources.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/case-studies.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/form.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/site-map.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/sidebar.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/header.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/about.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/contact-us.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosing-by-weight.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/fast-on-fast-off-pk-profile.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/patient-types.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/product-specifications.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/unsubscribe.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/nav.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/header.index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/nav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/hcp.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/isi.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/profiles.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/support.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/continued-relapse.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/inadequate-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/initial-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.xml",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/navigation.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/navigation.css",
+				"/Users/kirk.mccutcheon/.zshrc",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/postLaunchNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/contact.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-ingested.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-ingested.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-trans.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-12mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-6mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/intake.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/drug.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dietary.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dosing.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/safety.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/long-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/short-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/efficacy.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/pharmacokinetics.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/moa.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/about.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/depression.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js.old",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/.htaccess",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/modernizr-1.7.min.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/jquery-1.5.1.min.js",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/style.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/index.html",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/css/grid.css",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/public/.htaccess",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/Bootstrap.php",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/configs/application.ini",
+				"/Users/kirk.mccutcheon/ll",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/fooer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.html",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/js/script.js",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Minifier.sublime-settings",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-tran.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-12mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-6mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/intake.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/indexHeader.includes.php",
+				"/Users/kirk.mccutcheon/Desktop/53492-4_gskmbx_unbranded_eblast_lo13.txt",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/long-term.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/short-term.php",
+				"/etc/host",
+				"/Users/kirk.mccutcheon/Desktop/VPN LOGIN INFO",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/js/script.js",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/navigation.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/headerDepression.includes.php",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/config/initializers/active_admin.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/posts_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/static_pages_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/resume.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/about.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/posts/post.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/layouts/application.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/javascripts/masonry.js",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/stylesheets/posts.css.scss",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch copy/about.includes.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".right",
+					".required",
+					"<hr>",
+					"hr",
+					"EMSAM_PI_May_2009.pdf",
+					"may_2009",
+					"node",
+					"border: 0px solid #fff;",
+					"border-width",
+					"border",
+					"border-left",
+					"-left",
+					"border",
+					"width",
+					" placeholder=\"\"",
+					"placeholder=\"\"",
+					"arrow",
+					"   ",
+					"#access",
+					"•",
+					"</sup>",
+					"<sup style=\"line-height: 10px;font-size: 9px\"",
+					"alt=\"header\"",
+					"header",
+					"^",
+					"underline",
+					"pratap",
+					"#video",
+					"images/",
+					"images",
+					"iamge",
+					"back",
+					"shadow",
+					"over",
+					"• ",
+					"54158-1_gskmbx_eblast_lo4",
+					"images/",
+					"$script_runner",
+					"$sctipt",
+					"$sctipt_runner",
+					"sctipt_runner",
+					"/images/",
+					"images/",
+					"../images/",
+					"images/",
+					"portfolio",
+					"showcaseNav",
+					"overflow",
+					"url",
+					"oncology.stg4.gsw-w",
+					"digital_work",
+					".ui-btn",
+					"@med",
+					"ui-btn",
+					"orange",
+					"location",
+					"height",
+					"ContentFlowGlobal",
+					"chrome",
+					"absolute",
+					"left",
+					"mar",
+					"path",
+					"addStylesheet",
+					"img",
+					".css",
+					"../images",
+					"img",
+					"skin/",
+					"rvm",
+					"RVM environment",
+					"/usr/local/rvm",
+					"ruby-1.9.2-head",
+					"/usr/local/rvm/environments/ruby-1.9.2-head",
+					"rvm",
+					"content",
+					"unkkown",
+					"5",
+					"inner",
+					"img",
+					"staging.benefits.inserv-worldwide.com",
+					"5",
+					"html",
+					"5",
+					"div",
+					"html"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<div class=\"rule\"></div>",
+					"EMSAM_PI_January_2010.pdf",
+					"",
+					"nav",
+					"&bull;",
+					"</span>",
+					"<span style=\"line-height: 10px;font-size: 9px; position:relative; top:-5px\"",
+					"",
+					"&bull;&nbsp;",
+					"54158-1_gskmbx_eblast_lo5",
+					"http://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/",
+					"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Message Subject or Title</title>\n<!-- Targeting Windows Mobile -->\n<!--[if IEMobile 7]>\n	<style type=\"text/css\">\n	\n	</style>\n	<![endif]-->\n<!-- ***********************************************\n	****************************************************\n	END MOBILE TARGETING\n	****************************************************\n	************************************************ -->\n<!--[if gte mso 9]>\n		<style>\n		/* Target Outlook 2007 and 2010 */\n		</style>\n	<![endif]-->\n  </head>\n  <body style=\"width: 100% !important;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0\">\n<!-- Wrapper/Container Table: Use a wrapper table to control the width and the background color consistently of your email. Use this approach instead of setting attributes on the body tag. -->\n<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\" id=\"backgroundTable\" style=\"margin: 0;padding: 0;width: 100% !important;line-height: 100% !important\"><tr><td valign=\"top\" style=\"background: #e7f5d7;border-collapse: collapse\"> \n		<!-- Tables are the most common way to format your email consistently. Set your table widths inside cells and in most cases reset cellpadding, cellspacing, and border to zero. Use nested tables as a way to space effectively in your message. -->\n		<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\"><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\" valign=\"top\">\n					<img class=\"image_fix\" src=\"images/header.jpg\" alt=\"Mystro\" title=\"Mystro\" width=\"630\" height=\"224\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/title.jpg\" alt=\"Masterful Multichannel Marketing \" title=\"Masterful Multichannel Marketing \" width=\"630\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse: collapse\">\n								<a href=\"tel:+1-800-716-7116\" title=\"\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/phoneNumber.jpg\" alt=\"(800)716-7166\" title=\"(800)716-7166\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n							<td style=\"border-collapse: collapse\">\n								<a href=\"mailto:test@test.com?subject=contact from email\" title=\"contact via email\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/contactEmail.jpg\" alt=\"contact via email\" title=\"contact via email\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/topFull.jpg\" alt=\"\" title=\"\" width=\"629\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/arrows.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"136\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Increased awareness, access + product availability</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Territory Warming, Formulary Announcement, <br />and Pharmacy Messaging.</span>\n							</td>\n							<td rowspan=\"3\" valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/rightSide.jpg\" alt=\"right side\" title=\"right side\" width=\"59\" height=\"415\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/wifi.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"138\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Expanded reach, frequency + share of voice</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Tele-Detailing, Virtual-Detailing, and <br />Rep-Triggered Mail.</span>\n							</td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/people.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"141\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Coordinated, compliant + customized for you</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Integrated Fulfillment and Sample Accountability.</span>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/bottomMessage.jpg\" alt=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" title=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" width=\"630\" height=\"88\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><a href=\"http://mystromultichannel.com\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/moreButton.jpg\" alt=\"Find out more about Mystro\" title=\"Find out more about Mystro\" width=\"458\" height=\"95\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr></table></td>\n	</tr></table><!-- End of wrapper table --></body>\nhttp://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/\n",
+					"<%= image_path \"",
+					"/images/",
+					"images/",
+					"../images/",
+					"work",
+					"pearson.stg4.gsw-w",
+					"pearson",
+					"#c8b10a",
+					"../images/contentflow",
+					"../images",
+					"../images/MooFlow/",
+					"unknown",
+					"benefits.inventivhealth.com/2012"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.663996450983,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sty",
+						"assets/css/style.css"
+					],
+					[
+						"site",
+						"site-map.php"
+					],
+					[
+						"re",
+						"resources.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"case",
+						"case-studies.php"
+					],
+					[
+						"scr",
+						"assets/js/scripts.js"
+					],
+					[
+						"dru",
+						"assets/includes/postLaunch/drug.includes.php"
+					],
+					[
+						"un",
+						"unsubscribe.php"
+					],
+					[
+						"",
+						"app/views/posts/index.html.erb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"res",
+						"app/views/static_pages/resume.html.erb"
+					],
+					[
+						"ab",
+						"app/views/static_pages/about.html.erb"
+					],
+					[
+						"cont",
+						"app/controllers/static_pages_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1833.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block	(b)"
+					],
+					[
+						"heigth",
+						"height"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"first",
+						":first-child"
+					],
+					[
+						"time",
+						"timeline"
+					],
+					[
+						"bord",
+						"border	border-bottom: size style color"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"input",
+						"input	input - text"
+					],
+					[
+						"stop",
+						"stopVid1"
+					],
+					[
+						"st",
+						"stopVid"
+					],
+					[
+						"label",
+						"label	<label>"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"lis",
+						"list	list-style-type: numeric"
+					],
+					[
+						"V",
+						"Verdana, Geneva, Arial, Helvetica, sans-serif"
+					],
+					[
+						"form",
+						"form	<form>"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"back",
+						"background	background-image: url"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"lorem",
+						"lorem	lorem - HTML Kitchen sink"
+					],
+					[
+						"ar",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"A",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"gem",
+						"gemt	gem test"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"dis",
+						"display	display: block"
+					],
+					[
+						"do",
+						"do"
+					],
+					[
+						"vi",
+						"<div id=\"vi\">${1001:$SELECTION}</div>"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"sf",
+						"sfun	Self invoking function"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"G",
+						"\"Gill Sans MT\""
+					],
+					[
+						"large",
+						"largeBanner"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"sfun",
+						"sfun	jQuery invoking function"
+					],
+					[
+						"er",
+						"erb"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"10px",
+						"10px"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"show",
+						"showcaseNav"
+					],
+					[
+						"column",
+						"column-3"
+					],
+					[
+						"list",
+						"list	list-style-type: marker"
+					],
+					[
+						"ff",
+						"ff0033"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"sele",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"th",
+						"this	A basic jQuery selector"
+					],
+					[
+						"sel",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"j",
+						"jfun	jQuery invoking function"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"se",
+						"section"
+					],
+					[
+						"cl",
+						"clip"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"n",
+						"none	(n)"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"h2",
+						"h2"
+					],
+					[
+						"h3",
+						"h3"
+					],
+					[
+						"nav",
+						"nav	<nav>"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"a",
+						"a	<a>"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"nth-child",
+						":nth-child(|)"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"bu",
+						"bubbleActiveleft"
+					],
+					[
+						"banner",
+						"bannerBg"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"bubble",
+						"bubbleActiveRight"
+					],
+					[
+						"T",
+						"\"Trebuchet MS\""
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"vis",
+						"visible"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"exhibiteft",
+						"exhibitLeft"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"backgrou",
+						"background	background-color: hex"
+					],
+					[
+						"script",
+						"script"
+					],
+					[
+						"meta",
+						"meta"
+					],
+					[
+						"img",
+						"img: img"
+					],
+					[
+						"return",
+						"return  (keyword)"
+					],
+					[
+						"class",
+						"@class"
+					],
+					[
+						"hcp",
+						"hcp  (variable)"
+					],
+					[
+						"var",
+						"var: <var>"
+					],
+					[
+						"src",
+						"src=  (attribute)"
+					],
+					[
+						"z",
+						"z: z-index: index"
+					],
+					[
+						"li",
+						"li  (element)"
+					],
+					[
+						"ul",
+						"u  (element)"
+					],
+					[
+						"div",
+						"div>  (element)"
+					],
+					[
+						"id",
+						"id=  (attribute)"
+					],
+					[
+						"madding",
+						"-moz-padding-start:   (property)"
+					],
+					[
+						"title",
+						"title=  (attribute)"
+					],
+					[
+						"alt",
+						"alt=  (attribute)"
+					],
+					[
+						"padding",
+						"padding: padding: T R B L"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"block",
+						"blockquote: <blockquote>"
+					],
+					[
+						"height",
+						"min-height:   (property)"
+					],
+					[
+						"Title",
+						"title=  (attribute)"
+					],
+					[
+						"html",
+						"html: html"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/.gitignore",
+					"settings":
+					{
+						"buffer_size": 18,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Browser.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"fe",
+						"Fetch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: gem",
+						"Snippet: gem test"
+					],
+					[
+						"fet",
+						"Fetch"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Preferences: Browse Packages"
+					],
+					[
+						"fetch",
+						"Fetch: Manage remote files"
+					],
+					[
+						"prefix",
+						"Preferences: Prefixr Key Bindings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 115.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": true,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/assets/js/scriptHome.js",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/about.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/indications.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/bottomNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-environment.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/tachycardia.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/atrial-fibrillation.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosage.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/prescribing-information.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/faqs.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/resources.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/case-studies.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/form.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/site-map.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/sidebar.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/header.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/about.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/contact-us.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosing-by-weight.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/fast-on-fast-off-pk-profile.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/patient-types.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/product-specifications.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/unsubscribe.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/nav.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/header.index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/nav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/hcp.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/isi.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/profiles.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/support.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/continued-relapse.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/inadequate-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/initial-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.xml",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/navigation.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/navigation.css",
+				"/Users/kirk.mccutcheon/.zshrc",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/postLaunchNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/contact.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-ingested.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-ingested.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-trans.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-12mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-6mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/intake.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/drug.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dietary.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dosing.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/safety.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/long-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/short-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/efficacy.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/pharmacokinetics.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/moa.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/about.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/depression.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js.old",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/.htaccess",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/modernizr-1.7.min.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/jquery-1.5.1.min.js",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/style.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/index.html",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/css/grid.css",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/public/.htaccess",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/Bootstrap.php",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/configs/application.ini",
+				"/Users/kirk.mccutcheon/ll",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/fooer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.html",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/js/script.js",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Minifier.sublime-settings",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-tran.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-12mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-6mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/intake.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/indexHeader.includes.php",
+				"/Users/kirk.mccutcheon/Desktop/53492-4_gskmbx_unbranded_eblast_lo13.txt",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/long-term.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/short-term.php",
+				"/etc/host",
+				"/Users/kirk.mccutcheon/Desktop/VPN LOGIN INFO",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/js/script.js",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/navigation.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/headerDepression.includes.php",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/config/initializers/active_admin.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/posts_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/static_pages_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/resume.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/about.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/posts/post.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/layouts/application.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/javascripts/masonry.js",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/stylesheets/posts.css.scss",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch copy/about.includes.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".right",
+					".required",
+					"<hr>",
+					"hr",
+					"EMSAM_PI_May_2009.pdf",
+					"may_2009",
+					"node",
+					"border: 0px solid #fff;",
+					"border-width",
+					"border",
+					"border-left",
+					"-left",
+					"border",
+					"width",
+					" placeholder=\"\"",
+					"placeholder=\"\"",
+					"arrow",
+					"   ",
+					"#access",
+					"•",
+					"</sup>",
+					"<sup style=\"line-height: 10px;font-size: 9px\"",
+					"alt=\"header\"",
+					"header",
+					"^",
+					"underline",
+					"pratap",
+					"#video",
+					"images/",
+					"images",
+					"iamge",
+					"back",
+					"shadow",
+					"over",
+					"• ",
+					"54158-1_gskmbx_eblast_lo4",
+					"images/",
+					"$script_runner",
+					"$sctipt",
+					"$sctipt_runner",
+					"sctipt_runner",
+					"/images/",
+					"images/",
+					"../images/",
+					"images/",
+					"portfolio",
+					"showcaseNav",
+					"overflow",
+					"url",
+					"oncology.stg4.gsw-w",
+					"digital_work",
+					".ui-btn",
+					"@med",
+					"ui-btn",
+					"orange",
+					"location",
+					"height",
+					"ContentFlowGlobal",
+					"chrome",
+					"absolute",
+					"left",
+					"mar",
+					"path",
+					"addStylesheet",
+					"img",
+					".css",
+					"../images",
+					"img",
+					"skin/",
+					"rvm",
+					"RVM environment",
+					"/usr/local/rvm",
+					"ruby-1.9.2-head",
+					"/usr/local/rvm/environments/ruby-1.9.2-head",
+					"rvm",
+					"content",
+					"unkkown",
+					"5",
+					"inner",
+					"img",
+					"staging.benefits.inserv-worldwide.com",
+					"5",
+					"html",
+					"5",
+					"div",
+					"html"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<div class=\"rule\"></div>",
+					"EMSAM_PI_January_2010.pdf",
+					"",
+					"nav",
+					"&bull;",
+					"</span>",
+					"<span style=\"line-height: 10px;font-size: 9px; position:relative; top:-5px\"",
+					"",
+					"&bull;&nbsp;",
+					"54158-1_gskmbx_eblast_lo5",
+					"http://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/",
+					"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Message Subject or Title</title>\n<!-- Targeting Windows Mobile -->\n<!--[if IEMobile 7]>\n	<style type=\"text/css\">\n	\n	</style>\n	<![endif]-->\n<!-- ***********************************************\n	****************************************************\n	END MOBILE TARGETING\n	****************************************************\n	************************************************ -->\n<!--[if gte mso 9]>\n		<style>\n		/* Target Outlook 2007 and 2010 */\n		</style>\n	<![endif]-->\n  </head>\n  <body style=\"width: 100% !important;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0\">\n<!-- Wrapper/Container Table: Use a wrapper table to control the width and the background color consistently of your email. Use this approach instead of setting attributes on the body tag. -->\n<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\" id=\"backgroundTable\" style=\"margin: 0;padding: 0;width: 100% !important;line-height: 100% !important\"><tr><td valign=\"top\" style=\"background: #e7f5d7;border-collapse: collapse\"> \n		<!-- Tables are the most common way to format your email consistently. Set your table widths inside cells and in most cases reset cellpadding, cellspacing, and border to zero. Use nested tables as a way to space effectively in your message. -->\n		<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\"><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\" valign=\"top\">\n					<img class=\"image_fix\" src=\"images/header.jpg\" alt=\"Mystro\" title=\"Mystro\" width=\"630\" height=\"224\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/title.jpg\" alt=\"Masterful Multichannel Marketing \" title=\"Masterful Multichannel Marketing \" width=\"630\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse: collapse\">\n								<a href=\"tel:+1-800-716-7116\" title=\"\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/phoneNumber.jpg\" alt=\"(800)716-7166\" title=\"(800)716-7166\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n							<td style=\"border-collapse: collapse\">\n								<a href=\"mailto:test@test.com?subject=contact from email\" title=\"contact via email\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/contactEmail.jpg\" alt=\"contact via email\" title=\"contact via email\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/topFull.jpg\" alt=\"\" title=\"\" width=\"629\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/arrows.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"136\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Increased awareness, access + product availability</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Territory Warming, Formulary Announcement, <br />and Pharmacy Messaging.</span>\n							</td>\n							<td rowspan=\"3\" valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/rightSide.jpg\" alt=\"right side\" title=\"right side\" width=\"59\" height=\"415\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/wifi.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"138\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Expanded reach, frequency + share of voice</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Tele-Detailing, Virtual-Detailing, and <br />Rep-Triggered Mail.</span>\n							</td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/people.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"141\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Coordinated, compliant + customized for you</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Integrated Fulfillment and Sample Accountability.</span>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/bottomMessage.jpg\" alt=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" title=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" width=\"630\" height=\"88\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><a href=\"http://mystromultichannel.com\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/moreButton.jpg\" alt=\"Find out more about Mystro\" title=\"Find out more about Mystro\" width=\"458\" height=\"95\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr></table></td>\n	</tr></table><!-- End of wrapper table --></body>\nhttp://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/\n",
+					"<%= image_path \"",
+					"/images/",
+					"images/",
+					"../images/",
+					"work",
+					"pearson.stg4.gsw-w",
+					"pearson",
+					"#c8b10a",
+					"../images/contentflow",
+					"../images",
+					"../images/MooFlow/",
+					"unknown",
+					"benefits.inventivhealth.com/2012"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/.gitignore",
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.663996450983,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "43 59 1833 961 0 0 1920 1058 ",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sty",
+						"assets/css/style.css"
+					],
+					[
+						"site",
+						"site-map.php"
+					],
+					[
+						"re",
+						"resources.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"case",
+						"case-studies.php"
+					],
+					[
+						"scr",
+						"assets/js/scripts.js"
+					],
+					[
+						"dru",
+						"assets/includes/postLaunch/drug.includes.php"
+					],
+					[
+						"un",
+						"unsubscribe.php"
+					],
+					[
+						"",
+						"app/views/posts/index.html.erb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"res",
+						"app/views/static_pages/resume.html.erb"
+					],
+					[
+						"ab",
+						"app/views/static_pages/about.html.erb"
+					],
+					[
+						"cont",
+						"app/controllers/static_pages_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"window_id": 819,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block	(b)"
+					],
+					[
+						"heigth",
+						"height"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"first",
+						":first-child"
+					],
+					[
+						"time",
+						"timeline"
+					],
+					[
+						"bord",
+						"border	border-bottom: size style color"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"input",
+						"input	input - text"
+					],
+					[
+						"stop",
+						"stopVid1"
+					],
+					[
+						"st",
+						"stopVid"
+					],
+					[
+						"label",
+						"label	<label>"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"lis",
+						"list	list-style-type: numeric"
+					],
+					[
+						"V",
+						"Verdana, Geneva, Arial, Helvetica, sans-serif"
+					],
+					[
+						"form",
+						"form	<form>"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"back",
+						"background	background-image: url"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"lorem",
+						"lorem	lorem - HTML Kitchen sink"
+					],
+					[
+						"ar",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"A",
+						"Arial, Helvetica, sans-serif"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"gem",
+						"gemt	gem test"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"dis",
+						"display	display: block"
+					],
+					[
+						"do",
+						"do"
+					],
+					[
+						"vi",
+						"<div id=\"vi\">${1001:$SELECTION}</div>"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"sf",
+						"sfun	Self invoking function"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"G",
+						"\"Gill Sans MT\""
+					],
+					[
+						"large",
+						"largeBanner"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"sfun",
+						"sfun	jQuery invoking function"
+					],
+					[
+						"er",
+						"erb"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"10px",
+						"10px"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"show",
+						"showcaseNav"
+					],
+					[
+						"column",
+						"column-3"
+					],
+					[
+						"list",
+						"list	list-style-type: marker"
+					],
+					[
+						"ff",
+						"ff0033"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"sele",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"th",
+						"this	A basic jQuery selector"
+					],
+					[
+						"sel",
+						"selector	A basic jQuery selector"
+					],
+					[
+						"j",
+						"jfun	jQuery invoking function"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"se",
+						"section"
+					],
+					[
+						"cl",
+						"clip"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"n",
+						"none	(n)"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"h2",
+						"h2"
+					],
+					[
+						"h3",
+						"h3"
+					],
+					[
+						"nav",
+						"nav	<nav>"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"a",
+						"a	<a>"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"nth-child",
+						":nth-child(|)"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"bu",
+						"bubbleActiveleft"
+					],
+					[
+						"banner",
+						"bannerBg"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"bubble",
+						"bubbleActiveRight"
+					],
+					[
+						"T",
+						"\"Trebuchet MS\""
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"vis",
+						"visible"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"exhibiteft",
+						"exhibitLeft"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"backgrou",
+						"background	background-color: hex"
+					],
+					[
+						"script",
+						"script"
+					],
+					[
+						"meta",
+						"meta"
+					],
+					[
+						"img",
+						"img: img"
+					],
+					[
+						"return",
+						"return  (keyword)"
+					],
+					[
+						"class",
+						"@class"
+					],
+					[
+						"hcp",
+						"hcp  (variable)"
+					],
+					[
+						"var",
+						"var: <var>"
+					],
+					[
+						"src",
+						"src=  (attribute)"
+					],
+					[
+						"z",
+						"z: z-index: index"
+					],
+					[
+						"li",
+						"li  (element)"
+					],
+					[
+						"ul",
+						"u  (element)"
+					],
+					[
+						"div",
+						"div>  (element)"
+					],
+					[
+						"id",
+						"id=  (attribute)"
+					],
+					[
+						"madding",
+						"-moz-padding-start:   (property)"
+					],
+					[
+						"title",
+						"title=  (attribute)"
+					],
+					[
+						"alt",
+						"alt=  (attribute)"
+					],
+					[
+						"padding",
+						"padding: padding: T R B L"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"block",
+						"blockquote: <blockquote>"
+					],
+					[
+						"height",
+						"min-height:   (property)"
+					],
+					[
+						"Title",
+						"title=  (attribute)"
+					],
+					[
+						"html",
+						"html: html"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/User/Browser.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"fe",
+						"Fetch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: gem",
+						"Snippet: gem test"
+					],
+					[
+						"fet",
+						"Fetch"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Preferences: Browse Packages"
+					],
+					[
+						"fetch",
+						"Fetch: Manage remote files"
+					],
+					[
+						"prefix",
+						"Preferences: Prefixr Key Bindings – Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 115.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": true,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/assets/js/scriptHome.js",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/about.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/VOADHE-3405-Adheris_Redesign/trunk/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/indications.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/bottomNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-environment.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/tachycardia.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/atrial-fibrillation.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosage.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/prescribing-information.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/faqs.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/resources.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/case-studies.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/form.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/site-map.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/sidebar.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/header.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/about.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/contact-us.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/dosing-by-weight.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/fast-on-fast-off-pk-profile.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/patient-types.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/product-specifications.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/unsubscribe.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/nav.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/header.index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/nav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/hcp.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/includes/isi.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/profiles.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/support.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/continued-relapse.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/inadequate-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/initial-response.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.xml",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/index.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/navigation.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/navigation.css",
+				"/Users/kirk.mccutcheon/.zshrc",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/postLaunchNav.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/footer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/contact.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/references.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/privacy.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-ingested.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-ingested.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-trans.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-12mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/emsam-6mg.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/intake.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/drug.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dietary.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/dosing.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/safety.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/long-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/short-term.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/efficacy.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/pharmacokinetics.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/moa.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/about.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/depression.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch/index.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js.old",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EPatch-Pro/assets/js/scripts.js",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/sitemap.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/.htaccess",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/fancybox/jquery.fancybox-1.3.4.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/modernizr-1.7.min.js",
+				"/Users/kirk.mccutcheon/Sites/bones/wp-content/themes/HTML5-Reset-Wordpress-Theme/_/js/jquery-1.5.1.min.js",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/style.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/css/reset.css",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/html/index.html",
+				"/Users/kirk.mccutcheon/Desktop/CPStew_TomorrowsK/css/grid.css",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/public/.htaccess",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/Bootstrap.php",
+				"/Users/kirk.mccutcheon/Sites/zend/dev.gamenomad.com/application/configs/application.ini",
+				"/Users/kirk.mccutcheon/ll",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/includes/fooer.includes.php",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/hemodynamic-control.html",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/index.html",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/css/style.css",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/HtmlTidy.sublime-settings",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html/assets/js/script.js",
+				"/Users/kirk.mccutcheon/Library/Application Support/Sublime Text 2/Packages/User/Minifier.sublime-settings",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-tran.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-12mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/emsam-6mg.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/intake.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/indexHeader.includes.php",
+				"/Users/kirk.mccutcheon/Desktop/53492-4_gskmbx_unbranded_eblast_lo13.txt",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/long-term.php",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/short-term.php",
+				"/etc/host",
+				"/Users/kirk.mccutcheon/Desktop/VPN LOGIN INFO",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/js/script.js",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Sites/PBAXBR-20168-Brevibloc-website/css/navigation.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/grid.css",
+				"/Users/kirk.mccutcheon/Desktop/PBAXBR-20168-Brevibloc-website/css/reset.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/headerDepression.includes.php",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/config/initializers/active_admin.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/posts_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/controllers/static_pages_controller.rb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/resume.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/static_pages/about.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/posts/post.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/views/layouts/application.html.erb",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/javascripts/masonry.js",
+				"/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2/app/assets/stylesheets/posts.css.scss",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/fancybox/jquery.fancybox-1.3.4.css",
+				"/Users/kirk.mccutcheon/Assembla/DEYEMS_55234-EMSAM/trunk/EMSAMpro_HCP/assets/includes/postLaunch copy/about.includes.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/kirk.mccutcheon/Assembla/PBAXBR-20168-brevibloc-website/trunk/html",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".right",
+					".required",
+					"<hr>",
+					"hr",
+					"EMSAM_PI_May_2009.pdf",
+					"may_2009",
+					"node",
+					"border: 0px solid #fff;",
+					"border-width",
+					"border",
+					"border-left",
+					"-left",
+					"border",
+					"width",
+					" placeholder=\"\"",
+					"placeholder=\"\"",
+					"arrow",
+					"   ",
+					"#access",
+					"•",
+					"</sup>",
+					"<sup style=\"line-height: 10px;font-size: 9px\"",
+					"alt=\"header\"",
+					"header",
+					"^",
+					"underline",
+					"pratap",
+					"#video",
+					"images/",
+					"images",
+					"iamge",
+					"back",
+					"shadow",
+					"over",
+					"• ",
+					"54158-1_gskmbx_eblast_lo4",
+					"images/",
+					"$script_runner",
+					"$sctipt",
+					"$sctipt_runner",
+					"sctipt_runner",
+					"/images/",
+					"images/",
+					"../images/",
+					"images/",
+					"portfolio",
+					"showcaseNav",
+					"overflow",
+					"url",
+					"oncology.stg4.gsw-w",
+					"digital_work",
+					".ui-btn",
+					"@med",
+					"ui-btn",
+					"orange",
+					"location",
+					"height",
+					"ContentFlowGlobal",
+					"chrome",
+					"absolute",
+					"left",
+					"mar",
+					"path",
+					"addStylesheet",
+					"img",
+					".css",
+					"../images",
+					"img",
+					"skin/",
+					"rvm",
+					"RVM environment",
+					"/usr/local/rvm",
+					"ruby-1.9.2-head",
+					"/usr/local/rvm/environments/ruby-1.9.2-head",
+					"rvm",
+					"content",
+					"unkkown",
+					"5",
+					"inner",
+					"img",
+					"staging.benefits.inserv-worldwide.com",
+					"5",
+					"html",
+					"5",
+					"div",
+					"html"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<div class=\"rule\"></div>",
+					"EMSAM_PI_January_2010.pdf",
+					"",
+					"nav",
+					"&bull;",
+					"</span>",
+					"<span style=\"line-height: 10px;font-size: 9px; position:relative; top:-5px\"",
+					"",
+					"&bull;&nbsp;",
+					"54158-1_gskmbx_eblast_lo5",
+					"http://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/",
+					"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Your Message Subject or Title</title>\n<!-- Targeting Windows Mobile -->\n<!--[if IEMobile 7]>\n	<style type=\"text/css\">\n	\n	</style>\n	<![endif]-->\n<!-- ***********************************************\n	****************************************************\n	END MOBILE TARGETING\n	****************************************************\n	************************************************ -->\n<!--[if gte mso 9]>\n		<style>\n		/* Target Outlook 2007 and 2010 */\n		</style>\n	<![endif]-->\n  </head>\n  <body style=\"width: 100% !important;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0\">\n<!-- Wrapper/Container Table: Use a wrapper table to control the width and the background color consistently of your email. Use this approach instead of setting attributes on the body tag. -->\n<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\" id=\"backgroundTable\" style=\"margin: 0;padding: 0;width: 100% !important;line-height: 100% !important\"><tr><td valign=\"top\" style=\"background: #e7f5d7;border-collapse: collapse\"> \n		<!-- Tables are the most common way to format your email consistently. Set your table widths inside cells and in most cases reset cellpadding, cellspacing, and border to zero. Use nested tables as a way to space effectively in your message. -->\n		<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" align=\"center\"><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\" valign=\"top\">\n					<img class=\"image_fix\" src=\"images/header.jpg\" alt=\"Mystro\" title=\"Mystro\" width=\"630\" height=\"224\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/title.jpg\" alt=\"Masterful Multichannel Marketing \" title=\"Masterful Multichannel Marketing \" width=\"630\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse: collapse\">\n								<a href=\"tel:+1-800-716-7116\" title=\"\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/phoneNumber.jpg\" alt=\"(800)716-7166\" title=\"(800)716-7166\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n							<td style=\"border-collapse: collapse\">\n								<a href=\"mailto:test@test.com?subject=contact from email\" title=\"contact via email\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/contactEmail.jpg\" alt=\"contact via email\" title=\"contact via email\" width=\"315\" height=\"54\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/topFull.jpg\" alt=\"\" title=\"\" width=\"629\" height=\"58\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/arrows.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"136\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Increased awareness, access + product availability</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Territory Warming, Formulary Announcement, <br />and Pharmacy Messaging.</span>\n							</td>\n							<td rowspan=\"3\" valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/rightSide.jpg\" alt=\"right side\" title=\"right side\" width=\"59\" height=\"415\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/wifi.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"138\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Expanded reach, frequency + share of voice</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Tele-Detailing, Virtual-Detailing, and <br />Rep-Triggered Mail.</span>\n							</td>\n						</tr><tr><td valign=\"top\" style=\"border-collapse: collapse\">\n								<img class=\"image_fix\" src=\"images/people.jpg\" alt=\"\" title=\"\" width=\"127\" height=\"141\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n							<td class=\"content\" valign=\"top\" style=\"border-collapse: collapse;background: #f9f9f8;width: 444px\">\n								<span class=\"green\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 19px;display: block;line-height: 10px;margin-top: 30px;color: #86cc35\">Coordinated, compliant + customized for you</span><br /><span class=\"black\" style=\"font-family: Arial, Helvetica, sans-serif;font-size: 14px\">Integrated Fulfillment and Sample Accountability.</span>\n							</td>\n						</tr></table></td>\n			</tr><tr><td style=\"padding: 0 10px;background: #fff;border-collapse: collapse\">\n					<img class=\"image_fix\" src=\"images/bottomMessage.jpg\" alt=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" title=\"These are just a few ways MySTRO can refine the conversation and advance your success.\" width=\"630\" height=\"88\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><a href=\"http://mystromultichannel.com\" style=\"color: orange\"><img class=\"image_fix\" src=\"images/moreButton.jpg\" alt=\"Find out more about Mystro\" title=\"Find out more about Mystro\" width=\"458\" height=\"95\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;display: block\" /></a></td>\n			</tr><tr style=\"padding:0 10px; background:#ffffff;\"><td style=\"border-collapse: collapse\"><img class=\"image_fix\" src=\"images/spacer.gif\" alt=\"\" title=\"\" width=\"630\" height=\"30\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;display: block\" /></td>\n			</tr></table></td>\n	</tr></table><!-- End of wrapper table --></body>\nhttp://digital.inserv-worldwide.com/inVentiv_Health/Commercial/Promotech/MySTRO/VOPRMT_3917_MyStro_html_email/030212/images/\n",
+					"<%= image_path \"",
+					"/images/",
+					"images/",
+					"../images/",
+					"work",
+					"pearson.stg4.gsw-w",
+					"pearson",
+					"#c8b10a",
+					"../images/contentflow",
+					"../images",
+					"../images/MooFlow/",
+					"unknown",
+					"benefits.inventivhealth.com/2012"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/kirk.mccutcheon/Sites/rails_3.2/kportfolio2"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.663996450983,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "50 -1 1833 961 0 0 1920 1058 ",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"sty",
+						"assets/css/style.css"
+					],
+					[
+						"site",
+						"site-map.php"
+					],
+					[
+						"re",
+						"resources.php"
+					],
+					[
+						"ind",
+						"index.php"
+					],
+					[
+						"case",
+						"case-studies.php"
+					],
+					[
+						"scr",
+						"assets/js/scripts.js"
+					],
+					[
+						"dru",
+						"assets/includes/postLaunch/drug.includes.php"
+					],
+					[
+						"un",
+						"unsubscribe.php"
+					],
+					[
+						"",
+						"app/views/posts/index.html.erb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"res",
+						"app/views/static_pages/resume.html.erb"
+					],
+					[
+						"ab",
+						"app/views/static_pages/about.html.erb"
+					],
+					[
+						"cont",
+						"app/controllers/static_pages_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"window_id": 820,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

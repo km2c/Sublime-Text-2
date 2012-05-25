@@ -1,0 +1,4 @@
+{
+	"last_test_file": "static_pages_spec.rb",
+	"last_test_run": "cd '/Users/kirk.mccutcheon/Sites/rails_3.2/mPost/' && rspec spec/requests/static_pages_spec.rb"
+}

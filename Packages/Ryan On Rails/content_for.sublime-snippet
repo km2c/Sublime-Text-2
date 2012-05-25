@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<% content_for :${1:head} do %>
+	$0
+<% end %>]]></content>
+    <tabTrigger>cont</tabTrigger>
+    <scope>text.html.ruby</scope>
+    <description>content_for</description>
+</snippet>

@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Railscasts.tmTheme",
+	"font_face": "Bitstream Vera Sans Mono",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_indent_guides": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
